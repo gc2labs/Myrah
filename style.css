@@ -9,3 +9,10 @@ body, html {height: 100%}
 .color {
   background-color: #e6f7ff;
 }
+.main {
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  padding: 50px;
+  /* background-color: red; */
+}
