@@ -34,6 +34,21 @@ h3{
   border: 5px dotted purple;
 }
 
+.color1 {
+border: 5px solid #f7347f;
+}
+.color2{
+  border: 5px solid #4dffb5;
+}
+.color3{
+  border: 5px solid #ff6357;
+}
+.color4{
+  border: 5px solid #577eff;
+}
+.color5{
+  border: 5px solid #c757ff;
+}
 
 /*This is Lara's copied File*/
 .title {
