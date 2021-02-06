@@ -22,4 +22,74 @@ h1,h2,h3{
 }
 p{
   font-family: 'DM Serif Display', serif;
+
+}
+h1{
+  border: 5px dashed blue;
+}
+h2{
+  border: 5px double yellow;
+}
+h3{
+  border: 5px dotted purple;
+}
+
+
+/*This is Lara's copied File*/
+.title {
+  color: black;
+  padding: 10px;
+}
+
+.title h1 {
+  font-family: 'Dancing Script', cursive;
+}
+
+.main {
+  font-family: 'Lobster Two', cursive;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  padding: 50px;
+}
+.Authors{
+background-color:#34ddf7;
+}
+
+.border {
+  border: 5px solid red;
+  padding: 10px;
+  justify-content: center;
+  align-items: center;
+}
+
+button {
+  border-radius: 12px;
+  font-family: "Raleway", sans-serif;
+  padding: 5px;
+}
+
+.animal {
+  font-family: 'Alfa Slab One', cursive;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  padding: 50px;
+  border: 10px dashed blue;
+}
+
+.animal p {
+  font-family: "Raleway", sans-serif;
+}
+.animal h1 {
+  font-family: "DM Serif Display",serif;
+}
+.animal h2 {
+font-family: "Lobster Two,"cursive;
+}
+.flowers{
+  border: 10px dotted purple;
+}
+.flowers{
+  font-family: "DM Serif Display", sans-serif;
 }
